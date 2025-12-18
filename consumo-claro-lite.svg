@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="360"
+   height="420"
+   viewBox="0 0 360 420"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="consumo-claro-lite.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3182491"
+     inkscape:cx="175.99102"
+     inkscape:cy="263.60724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="360"
+       height="420"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <!-- Fondo transparente -->
+  <!-- Icono -->
+  <g
+     transform="matrix(0.62304018,0,0,0.62304018,104.33693,175.02481)"
+     id="g4"
+     inkscape:export-filename="g5.png"
+     inkscape:export-xdpi="1000"
+     inkscape:export-ydpi="1000">
+    <!-- C exterior -->
+    <path
+       d="M 70,-60 A 90,90 0 1 0 70,60"
+       fill="none"
+       stroke="#45cfcb"
+       stroke-width="18"
+       stroke-linecap="round"
+       id="path1" />
+    <!-- Barras internas -->
+    <rect
+       x="-35"
+       y="20"
+       width="14"
+       height="20"
+       rx="6.4201317"
+       fill="#45cfcb"
+       id="rect1"
+       ry="6.4201317" />
+    <rect
+       x="-10"
+       y="0"
+       width="14"
+       height="40"
+       rx="6.4201317"
+       fill="#45cfcb"
+       id="rect2"
+       ry="6.4201317" />
+    <rect
+       x="15"
+       y="-20"
+       width="14"
+       height="60"
+       rx="6.4201317"
+       fill="#45cfcb"
+       id="rect3"
+       ry="6.4201317" />
+    <rect
+       x="40"
+       y="-40"
+       width="14"
+       height="80"
+       rx="6.4201317"
+       fill="#45cfcb"
+       id="rect4"
+       ry="6.4201317" />
+  </g>
+  <!-- Texto -->
+  <text
+     x="257.37537"
+     y="148.56046"
+     text-anchor="middle"
+     font-family="Montserrat, Poppins, Arial, sans-serif"
+     font-size="36px"
+     font-weight="600"
+     fill="#45cfcb"
+     id="text4">CONSUMO</text>
+  <text
+     x="257.37537"
+     y="188.56046"
+     text-anchor="middle"
+     font-family="Montserrat, Poppins, Arial, sans-serif"
+     font-size="36px"
+     font-weight="600"
+     fill="#45cfcb"
+     id="text5">CLARO</text>
+  <text
+     x="257.37537"
+     y="223.56046"
+     text-anchor="middle"
+     font-family="Montserrat, Poppins, Arial, sans-serif"
+     font-size="20px"
+     letter-spacing="4"
+     fill="#b0b7bc"
+     id="text6">LITE</text>
+</svg>
